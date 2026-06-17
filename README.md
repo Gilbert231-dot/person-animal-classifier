@@ -12,7 +12,7 @@ This project uses a Convolutional Neural Network (CNN) built with TensorFlow/Ker
 ## How To Run
 1. Clone this repository
 2. Install requirements: `pip install -r requirements.txt`
-3. Download the trained model from [GitHub Releases](link-to-your-release)
+3. Download the trained model from [GitHub Releases](https://github.com/Gilbert231-dot/person-animal-classifier/releases/tag/v1.0)
 4. Run: `python predict.py --image path/to/image.jpg`
 
 ## Dataset
